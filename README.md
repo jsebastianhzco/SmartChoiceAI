@@ -59,19 +59,3 @@ SmartChoiceAI is not just another machine learning experiment. It's a **producti
 
 ## 🗂️ Project Structure
 
-smartchoice-api/
-├── app/
-│   ├── routers/
-│   │   └── prediction.py          ← Endpoint general
-│   ├── schemas/
-│   │   └── predict_schema.py      ← Entrada flexible
-│   ├── services/
-│   │   └── task_engine.py         ← Lógica para media + predict
-│   ├── models/
-│   │   └── predict/
-│   │       └── model.pkl          ← Modelo para predicción binaria
-│   ├── main.py                    ← App FastAPI
-├── train_model.py                 ← Script para entrenar el modelo
-├── requirements.txt
-└── README.md
-
