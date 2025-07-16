@@ -58,7 +58,7 @@ SmartChoiceAI is not just another machine learning experiment. It's a **producti
 
 
 ## 🗂️ Project Structure
-
+<code>
 smartchoice-api/
 ├── app/
 │   ├── routers/
@@ -74,4 +74,4 @@ smartchoice-api/
 ├── train_model.py                 ← Script para entrenar el modelo
 ├── requirements.txt
 └── README.md
-
+</code>
