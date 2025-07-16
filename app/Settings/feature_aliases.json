@@ -1,0 +1,10 @@
+{
+  "budget": "feat1",
+  "duration_min": "feat2",
+  "release_year": "feat3",
+  "popularity_score": "feat4",
+  "total_votes": "feat5",
+  "average_rating": "feat6",
+  "genre_score": "feat7",
+  "top_actors": "feat8"
+}
